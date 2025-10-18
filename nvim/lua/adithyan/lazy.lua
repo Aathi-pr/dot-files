@@ -20,5 +20,3 @@ require("lazy").setup({ { import = "adithyan.plugins" }, { import = "adithyan.pl
     notify = false,
   },
 })
--- Define custom highlight group
-vim.cmd("highlight NotifyBackground guibg=#1e1e1e") -- Set your desired background color

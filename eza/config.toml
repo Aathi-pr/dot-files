@@ -1,0 +1,14 @@
+[icons]
+use_icons = true
+[icon_mappings]
+[icon_mappings."txt"] = ""         # Text files
+[icon_mappings."md"] = ""          # Markdown files
+[icon_mappings."jpg"] = ""         # JPEG images
+[icon_mappings."png"] = ""         # PNG images
+[icon_mappings."gif"] = ""         # GIF images
+[icon_mappings."zip"] = ""         # ZIP files
+[icon_mappings."pdf"] = ""         # PDF files
+[icon_mappings."sh"] = ""          # Shell scripts
+[icon_mappings."js"] = ""          # JavaScript files
+[icon_mappings."py"] = ""          # Python files
+[icon_mappings."java"] = ""        # Java files
